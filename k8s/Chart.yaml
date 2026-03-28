@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ALICE_BROWSER_SECURE
+description: ALICE Browser Secure
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
